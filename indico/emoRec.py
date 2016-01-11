@@ -4,7 +4,7 @@ import indicoio
 import sys
 import os
 
-indicoio.config.api_key = 'adc14e7af6f166a04b95dd8aabf93a53'
+indicoio.config.api_key = ''
 
 
 
